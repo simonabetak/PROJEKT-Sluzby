@@ -130,6 +130,7 @@ h2 {
         max-width: 425px;
         width: 100%;
         height: auto;
+        margin: 0 auto;
     }
     .main-text {
         text-align: left;
